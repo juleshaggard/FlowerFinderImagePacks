@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "generatedAt": "2026-06-01T23:48:58Z",
+  "baseURL": "https://raw.githubusercontent.com/juleshaggard/FlowerFinderImagePacks/main/",
+  "regions": [
+    {
+      "region": "Africa",
+      "manifestPath": "Africa/manifest.json",
+      "photoCount": 17983,
+      "byteCount": 644581514,
+      "sha256": null
+    },
+    {
+      "region": "Asia",
+      "manifestPath": "Asia/manifest.json",
+      "photoCount": 10273,
+      "byteCount": 372484277,
+      "sha256": null
+    },
+    {
+      "region": "Australia",
+      "manifestPath": "Australia/manifest.json",
+      "photoCount": 10789,
+      "byteCount": 365391266,
+      "sha256": null
+    },
+    {
+      "region": "Europe",
+      "manifestPath": "Europe/manifest.json",
+      "photoCount": 8504,
+      "byteCount": 322157035,
+      "sha256": null
+    },
+    {
+      "region": "New Zealand",
+      "manifestPath": "New_Zealand/manifest.json",
+      "photoCount": 2463,
+      "byteCount": 99989048,
+      "sha256": null
+    },
+    {
+      "region": "North America",
+      "manifestPath": "North_America/manifest.json",
+      "photoCount": 21479,
+      "byteCount": 803851269,
+      "sha256": null
+    },
+    {
+      "region": "Pacific Islands",
+      "manifestPath": "Pacific_Islands/manifest.json",
+      "photoCount": 2218,
+      "byteCount": 78546128,
+      "sha256": null
+    },
+    {
+      "region": "South America",
+      "manifestPath": "South_America/manifest.json",
+      "photoCount": 16053,
+      "byteCount": 568843021,
+      "sha256": null
+    }
+  ]
+}
